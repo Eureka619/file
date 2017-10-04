@@ -33,3 +33,14 @@ color: rgb(76, 158, 217);
     padding: 3px 6px;
 }
 
+.aligncenter {
+    clear: both;
+    display: block;
+    margin: 0 auto;
+}
+img {
+    height: auto;
+    max-width: 100%;
+    border: 0;
+    vertical-align: middle;   
+}
