@@ -12,3 +12,24 @@ text-decoration: none;
 color: rgb(76, 158, 217);
 }
 
+.px {
+    display: inline;
+    padding: .2em .6em .3em;
+    font-weight: bold;
+    line-height: 2;
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: 0.25em;
+    background-color: #428bca;
+}
+
+.fx {
+    font-weight: 700;
+    border-left: 3px solid black;
+    background-color: #1e73be;
+    color: white;
+    padding: 3px 6px;
+}
+
