@@ -1,0 +1,13 @@
+body {
+background-color: #eee;
+font-family: 'open sans', 'lucida sans unicode', tahoma, helvetica, arial, sans-serif;
+font-size: 14px; line-height: 1.42857143; color: #333;
+background-attachment:fixed;
+max-width: 640px;
+}
+
+a {
+text-decoration: none;
+color: rgb(76, 158, 217);
+}
+
